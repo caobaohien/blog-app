@@ -1,1 +1,1 @@
-# this is a blog-app website
+# This is a blog-app website
